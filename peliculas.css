@@ -1,0 +1,146 @@
+body{
+	word-wrap:break-word;
+	background-color:black;
+color:white;
+text-align:justify;
+}
+h1{
+	text-align:center;
+	text-shadow: 2px 2px white;
+}
+article{
+	border:red 2px solid;
+	width:300px;
+	background-color:black;
+	
+}
+article.accion{
+	text-align:center;
+	position:absolute;
+	left:500px;
+	top:430px;
+	height:210px;
+	
+}
+article.comedia{
+	text-align:center;
+	height:178px;
+	position:absolute;
+	left:100px;
+	top:465px;
+	
+}
+article.terror{
+	text-align:center;
+	height:165;
+	position:absolute;
+	top:80px;
+	left:100px;
+}
+article.estrenos{
+	text-align:center;
+	height:160px;
+	position:absolute;
+	left:100px;
+	top:280px;
+}
+article.drama{
+	text-align:center;
+	height:315px;
+	position:absolute;
+	left:500px;
+	top:80px;
+	
+}
+h2{
+	margin-top:0px;
+	background-color:lightblue;
+}
+article.recomendaciones{
+	
+	text-align:center;
+	width:30%;
+	
+	position:absolute;
+	left:950px;
+	top:355px;
+	
+}
+
+Strong{
+	
+	background-color:lightblue;
+}
+img{
+	margin-right:4px;
+	border:red 2px solid;
+	width:200px;
+	height:200px;
+	
+	float:left;
+}
+img.c{
+	width:30%;
+	position:absolute;
+	left:950px;
+	
+}
+p{
+	margin:5px;
+}
+article.resacon{
+	width:400px;
+	height:320px;
+	position:absolute;
+	top:750px;
+}
+article.vascos{
+	width:400px;
+	height:320px;
+	position:absolute;
+	top:750px;
+	left:410px;
+}
+
+article.bourne{
+	width:400px;
+	height:320px;
+	position:absolute;
+	top:750px;
+	left:815px;
+	
+}
+article.co{
+	width:360px;
+	height:320px;
+	position:absolute;
+	top:750px;
+	left:1215px;
+}
+article.bf{
+	width:400px;
+	height:320px;
+	position:absolute;
+	top:1150px;
+}
+article.vb{
+	width:400px;
+	height:320px;
+	position:absolute;
+	top:1150px;
+	left:410px;
+}
+article.g{
+	width:398px;
+	height:320px;
+	position:absolute;
+	top:1150px;
+	left:815px;
+}
+article.ewce{
+	width:360px;
+	height:320px;
+	position:absolute;
+	top:1150px;
+	left:1215px;
+}

@@ -1,0 +1,50 @@
+body{
+	background-image: url("imagenes/mov.jpg");
+background-repeat:no-repeat;
+word-wrap:break-word;
+}
+article{
+	background-color:black;
+}
+article.link{
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:6px;
+	text-align:center;
+	background-color:white;
+	height:30px;
+	width:500px;
+}
+h1{
+	text-align:center;
+	color:white;
+	text-shadow: 2px 4px black;
+}
+h2{
+	color:white;
+}
+a{
+	margin-right:15px;
+	margin-left:15px;
+}
+
+img.imagen{
+	margin-top:70px;
+	width:50%;
+	margin-left:25%;
+	margin-right:25%;
+	
+}
+img.imagen3{
+	margin-top:10%;
+	margin-left:10%;
+	margin-bottom:200px;
+	width:500px;
+}
+img.imagen4{
+	margin-top:7%;
+	margin-left:100px;
+	width:500px;
+}
+
+

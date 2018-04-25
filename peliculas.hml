@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Luis González Muñoz</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="" title="Color" />
+  </head>
+
+<body>
+<article>
+<h2>Estrenos</h2>
+<ul>
+<li>El rey arturo</li>
+<li>Avengers: Infinity War</li>
+<li>Campeones</li>
+<li>La tribu</li>
+<li>La casa torcida</li>
+</ul>
+</article>
+</body>
+</html>
